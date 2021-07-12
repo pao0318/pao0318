@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sharma.siddharthspacex21@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I lose in Valorant very often.**
 
 ## 🚀 Languages and Tools:
 
