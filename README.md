@@ -29,6 +29,7 @@
     <a href="https://www.w3schools.com/html/" target="_blank"<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://aws.amazon.com/"target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
 </p>
 
 <br/>
