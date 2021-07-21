@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[AWS Deep Racer](https://console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Hands on ML Tensorflow2**(https://console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
