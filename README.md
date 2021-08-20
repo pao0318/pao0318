@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[AWS Deep Racer](https://console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted)**
+- 🔭 I’m currently working on **[Data Structures and Algorithm](https://practice.geeksforgeeks.org/courses/dsa-self-paced)**
 
 - 🌱 I’m currently learning **Hands on ML Tensorflow2**(https://console.aws.amazon.com/deepracer/home?region=us-east-1#getStarted)
 
